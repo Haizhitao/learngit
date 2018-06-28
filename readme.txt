@@ -1,3 +1,3 @@
 git is a version control system.
 git is free software, liu.
-git tracks changes.
+git tracks changes a file.
